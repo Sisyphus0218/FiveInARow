@@ -1,6 +1,7 @@
 #pragma once
 
 #include <iostream>
+#include <limits>
 #include <string>
 #include "BoardCoord.h"
 #include "BoardNotation.h"
